@@ -2,7 +2,7 @@
 
 This project implements a color-triggered robot arm positioning system where the arm automatically moves to pre-saved positions when specific colors are detected by a color sensor.
 
-![Robot Arm Setup](pics/截屏2025-05-03 下午12.36.17.png)(pics截屏2025-05-03 下午12.36.19.png)
+[![Robot Arm Setup](pics/1.png)
 
 ## Features
 
@@ -93,7 +93,7 @@ The system responds to these serial commands:
 
 ## Demo
 
-![Color Detection Demo](pics/截屏2025-05-21 上午10.34.27.png)](https://drive.google.com/file/d/1isOumMyi7POA7O3pJg1bhg53JsSRhfIb/view?usp=drive_link)
+[![Color Detection Demo](pics/3.png)](https://drive.google.com/file/d/1isOumMyi7POA7O3pJg1bhg53JsSRhfIb/view?usp=drive_link)
 
 When the system detects a color it has been calibrated for, the robot arm will automatically move to the saved position for that color.
 
